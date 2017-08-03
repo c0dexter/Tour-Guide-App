@@ -1,0 +1,123 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string name="phrases_name">Phrases</string>
+    <string name="numbers_name">Numbers</string>
+    <string name="family_members_name">Family Members</string>
+    <string name="colors_name">Colors</string>
+    <string name="google_maps_key">AIzaSyA3qcpdfYCClQQDPM6wzc4lFefZP5oVM3E</string>
+    <string name="dragon_crow_attraction">Dragon crow</string>
+    <string name="garden_of_experiences_attraction">Garden of Experiences</string>
+    <string name="viewing_platform_balloon_attraction">Viewing Platform - Balloon</string>
+    <string name="viewing_platform_balloon_address_attraction">Bulwar Wołyński 30-302 Kraków</string>
+    <string name="viewing_platform_balloon_phone_number_attraction">+48789491221</string>
+    <string name="popes_tram_attraction">Tramwaj Papieski - linia nr 8</string>
+    <string name="popes_window_attraction">Pope\'s window</string>
+    <string name="popes_window_address_attraction">Franciszkańska 3, 31-004 Kraków</string>
+    <string name="popes_window_phone_attraction">+48126288100</string>
+    <string name="cruises_vistula_attraction">Cruises on the Vistula River</string>
+    <string name="cruises_vistula_address_attraction">Bulwar Czerwieński, 30-001 Kraków</string>
+    <string name="cruises_vistula_phone_number_attraction">+48604299000</string>
+    <string name="water_park_attraction">Water park</string>
+    <string name="water_park_address_attraction">Dobrego Pasterza 126, 31-416 Kraków</string>
+    <string name="water_park_phone_number_attraction">+48126163190</string>
+    <string name="cracovian_beach_attraction">Cracovian beach</string>
+    <string name="cracovian_beach_attraction_address">Ludwinowska 2, 30-331 Kraków</string>
+    <string name="cracovian_beach_phone_number_attraction">+48530950303</string>
+    <string name="forum_attraction">Forum Przestrzenie</string>
+    <string name="forum_address_attraction">Marii Konopnickiej 28, 30-001 Kraków</string>
+    <string name="forum_phone_number_attraction">+48515424724</string>
+    <string name="new_square_attraction">New Square</string>
+    <string name="legendary_area">Legendary area</string>
+    <string name="amusement_park">Amusement park</string>
+    <string name="view_point">View point</string>
+    <string name="historical_place">Historical place</string>
+    <string name="water_attraction">Water attraction</string>
+    <string name="leisure_zone">Leisure zone</string>
+    <string name="food_and_drink_zone">Food and drink zone</string>
+    <string name="historical_person">Historical person</string>
+    <string name="legendary_figure">Legendary figure</string>
+    <string name="historical_scene">Historical scene</string>
+    <string name="memorial_place">Memorial place</string>
+    <string name="historical_monument">Historical monument</string>
+    <string name="historical_vehicle">Historical vehicle</string>
+    <string name="adam_mickiewicz_memorial">Adam Mickiewicz</string>
+    <string name="wawel_dragon_memorial">Wawel Dragon</string>
+    <string name="monument_of_runwald_memorial">Monument of Grunwald</string>
+    <string name="fryderyk_chopin_monument_memorial">Fryderyk Chopin\'s Monument</string>
+    <string name="ignacy_paderewski_monument">Ignacy Paderewski Monument</string>
+    <string name="monument_victim_of_nazism_memorial">Monument to the victims of Nazism</string>
+    <string name="monument_armed_action_memorial">Monument to the armed action</string>
+    <string name="monument_solidarity_memorial">Monument to Solidarity</string>
+    <string name="tank_nh_memorial">Tank IS-2</string>
+    <string name="kosciuszko_mound_memorial">Kościuszko mound</string>
+    <string name="church">Church</string>
+    <string name="historical_building">Historical building</string>
+    <string name="historical_street">Historical Street</string>
+    <string name="historical_museum">Historical museum</string>
+    <string name="main_square">Main Square</string>
+    <string name="castle">Castle</string>
+    <string name="wawel_royal_castle">Wawel Royal Castle</string>
+    <string name="wewel_royal_castle_address_monument">Wawel 5, 31-001 Kraków</string>
+    <string name="wewel_royal_castle_phone_monument">+48124225155</string>
+    <string name="main_square_in_cracow_monument">Main Square in Cracow</string>
+    <string name="underground_of_main_square_museum_monument">Underground of main square</string>
+    <string name="underground_of_main_square_museum_address_monument">Rynek Główny 1, 33-332 Kraków</string>
+    <string name="underground_of_main_square_museum_phone_monument">+48124265060</string>
+    <string name="st_marys_church_monument">St. Mary\'s Church</string>
+    <string name="st_marys_church_address_monument">plac Mariacki 5, 31-042 Kraków</string>
+    <string name="st_marys_church_phone_monument">+48124220521</string>
+    <string name="grodzka_street_monument">Grodzka Street</string>
+    <string name="church_peter_and_paul">Church Peter and Paul</string>
+    <string name="church_peter_and_paul_address_monument">Grodzka 52A, 31-044 Kraków</string>
+    <string name="church_peter_and_paul_phone_monument">+48123506365</string>
+    <string name="barbican_monument">Barbican</string>
+    <string name="town_hall_tower_monument">Town hall Tower</string>
+    <string name="town_hall_tower_address_monument">Rynek Główny 1, 31-001 Kraków</string>
+    <string name="town_hall_tower_phone_monument">+48124264334</string>
+    <string name="schindler_factory_monument">Schindler Factory</string>
+    <string name="schindler_factory_address_monument">Lipowa 4F, 30-702 Kraków</string>
+    <string name="schindler_factory_phone_monument">+48122571017</string>
+    <string name="old_synagogue_monument">Old synagogue</string>
+    <string name="old_synagogue_address_monument">Szeroka 24, 31-053 Kraków</string>
+    <string name="old_synagogue_phone_monument">+48124310545</string>
+    <string name="city_park">City park</string>
+    <string name="city_park_planty">Planty</string>
+    <string name="city_park_jordan_park">Jordan\'s Park</string>
+    <string name="city_park_bednarski">Bednarski Park</string>
+    <string name="city_park_enchanted_cab">Park of the enchanted cab</string>
+    <string name="city_park_shooting">Shooting park</string>
+    <string name="city_park_polish_aviators">Park of Polish aviators</string>
+    <string name="city_park_debnicki">Debnicki Park</string>
+    <string name="city_park_plaszow_garden_river">Plaszow Garden River Park</string>
+    <string name="city_park_lilli_wenedy">Park Lilli Wenedy</string>
+    <string name="city_park_nh_meadow">Nowa Huta meadow</string>
+    <string name="no_map_app_message">Please install a google maps application</string>
+
+</resources>
